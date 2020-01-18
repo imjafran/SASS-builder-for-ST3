@@ -6,7 +6,7 @@ Build CSS Files from SASS / SCSS direct from Sublime Text 3.
 
 ### **Requirements:** 
 
-1. [Download](/https://nodejs.org/en/download/)  and Install node.js 
+1. [Download](https://nodejs.org/en/download/)  and Install node.js 
 2. [Install](https://sass-lang.com/install) SASS
 3. Install SASS Builder ( *this* )
 
